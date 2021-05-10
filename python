@@ -1,0 +1,1 @@
+python dùng interpreter,một số thuộc tính mutable/unmutable,tất cả đều pass bằng reference nhưng đi ra ngoài hàm sẽ không thay đổi nếu nó là unmutable

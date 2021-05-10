@@ -1,0 +1,72 @@
+[
+    {
+        "address": "0x788cabe9236ce061e5a892e1a59395a81fc8d62c",
+        "average_transaction": 158.34854550168845,
+        "balance": 157.27669330615822,
+        "history": 249,
+        "fico": 189
+    },
+    {
+        "address": "0x4a31fbeb36c0c933100d63a3a4f6693d5872d62a",
+        "average_transaction": 235.59309073091174,
+        "balance": 157.46634198937576,
+        "history": 248,
+        "fico": 216
+    },
+    {
+        "address": "0x9d268b312ea48716a5ee4dc53bf52eba1f05d316",
+        "average_transaction": 0,
+        "balance": 178.49706493814898,
+        "history": 248,
+        "fico": 140
+    },
+    {
+        "address": "0xb3501faeacfd0a37a7ce90b3d5af97b122a1348b",
+        "average_transaction": 183.00069142724965,
+        "balance": 0,
+        "history": 248,
+        "fico": 150
+    },
+    {
+        "address": "0xa3fd5cc5ba356433b28209d812ff0cf261881e1b",
+        "average_transaction": 0,
+        "balance": 183.97043926630545,
+        "history": 252,
+        "fico": 143
+    },
+    {
+        "address": "0x186dae6185db59eee0adc8f2afae61c179e20316",
+        "average_transaction": 0,
+        "balance": 179.9913054128737,
+        "history": 248,
+        "fico": 140
+    },
+    {
+        "address": "0x099b59774b2c1a514c94202fab37c3483ef1f8db",
+        "average_transaction": 186.20982773054146,
+        "balance": 174.7610844411435,
+        "history": 250,
+        "fico": 205
+    },
+    {
+        "address": "0x9a16f6d888fc5996cafeba2488a3f942817856b9",
+        "average_transaction": 160.14723256820704,
+        "balance": 168.3730217667379,
+        "history": 251,
+        "fico": 194
+    },
+    {
+        "address": "0x7ece4c0aee67d67ac882e99767b0e30d45d68c29",
+        "average_transaction": 170.35381646362384,
+        "balance": 160.2556194155581,
+        "history": 248,
+        "fico": 194
+    },
+    {
+        "address": "0x77f51b90c00f0d88d12045706aa5c364375d2cc1",
+        "average_transaction": 0,
+        "balance": 185.97475789870373,
+        "history": 248,
+        "fico": 142
+    }
+]
