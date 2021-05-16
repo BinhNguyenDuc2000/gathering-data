@@ -11,7 +11,7 @@ er = 0
 def get_average_transaction(address="0x0000000000000000000000000000000000001004"):
     a = "https://api.bscscan.com/api?module=account&action=txlist&address="
     b = "&startblock=1&endblock=99999999&page=1&offset="
-    c = "&sort=asc&apikey="
+    c = "&sort=desc&apikey="
     record_number = "30"
     api_token = "EHK917H6T8GF36B3H62T5MSWDMS4YT6HUA"
     rq = a + address + b + record_number + c + api_token

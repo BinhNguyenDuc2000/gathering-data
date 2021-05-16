@@ -31,8 +31,7 @@ for tran in result1:
         if get_key(tx_from, users) == -1:
             users[k] = tx_from
             k = k + 1
-    elif tx_to.upper() != test_add.upper():
-        if get_key(tx_to, users) == -1:
+    elif tx_to.upper() != test_add.upper() and get_key(tx_to, users) == -1:
             users[k] = tx_to
             k = k + 1
 
